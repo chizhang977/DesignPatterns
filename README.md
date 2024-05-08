@@ -44,22 +44,7 @@
 - 模板方法模式
 - 访问者模式
 ## 项目结构
-design-patterns/
-├── creation/
-│   ├── singleton/
-│   │   └── [Language]SingletonExample.*
-│   ├── ...
-├── structural/
-│   ├── adapter/
-│   │   └── [Language]AdapterExample.*
-│   ├── ...
-├── behavioral/
-│   ├── observer/
-│   │   └── [Language]ObserverExample.*
-│   ├── ...
-├── README.md
-├── LICENSE
-└── ...
+
 ## 如何运行示例
 请参照各模式目录下的README.md文件，其中包含了如何设置环境和运行示例代码的具体步骤。
 
